@@ -1,0 +1,181 @@
+.head{
+    font-size: 3em;
+    font-weight: 300;
+    color: gray;
+    display: inline-block;
+    padding-bottom: 15px;
+    font-family: "Fredoka One";
+}
+
+.heading{
+    text-align: center;
+    margin-top: 0.5em;
+}
+
+#btnSubmit{
+    margin-top: 20px;
+    background-color: cadetblue;
+    border: none;
+    font-size: 1.6em;
+    font-weight: 300;
+    padding: 5px 0;
+    width: 100%;
+    border-radius: 3px;
+    color: pink;
+    border-bottom: 4px solid darkgray;
+    font-family: "Fredoka One";
+}
+
+#btnSubmit:hover{
+    background-color: darkcyan;
+}
+
+.sign-up{
+    padding: 2em;
+    width: 20em;
+    min-height: 20em;
+    margin: auto;
+    background-color: transparent;
+}
+
+#btnSend{
+    margin-top: 20px;
+    background-color: cadetblue;
+    border: none;
+    font-size: 1.6em;
+    font-weight: 300;
+    padding: 5px 0;
+    width: 100%;
+    border-radius: 3px;
+    color: pink;
+    border-bottom: 4px solid darkgray;
+    font-family: "Fredoka One";
+}
+
+#btnSend:hover{
+    background-color: darkcyan;
+}
+
+#btnSave{
+    margin-top: 20px;
+    background-color: cadetblue;
+    border: none;
+    font-size: 1.6em;
+    font-weight: 300;
+    padding: 5px 0;
+    width: 100%;
+    border-radius: 3px;
+    color: pink;
+    border-bottom: 4px solid darkgray;
+    font-family: "Fredoka One";
+}
+
+#btnSave:hover{
+    background-color: darkcyan;
+}
+.customerShowYourself{
+    background-color: lavender;
+    width: 28em;
+    height: 20em;
+
+}
+
+.customerShowYourself .customerList{
+    background-color: chocolate;
+    margin-top: 2em;
+    padding: 2em;
+}
+
+#bannerPic{
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+*{
+    font-family: Calibri;
+}
+table, th , td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 5px;
+    text-align: left;
+}
+
+#btnEditCustomer{
+    margin-top: 20px;
+    background-color: cadetblue;
+    border: none;
+    font-size: 1.6em;
+    font-weight: 300;
+    padding: 5px 0;
+    width: 100%;
+    border-radius: 3px;
+    color: pink;
+    border-bottom: 4px solid darkgray;
+    font-family: "Fredoka One";
+}
+
+#btnEditCar{
+    margin-top: 20px;
+    background-color: cadetblue;
+    border: none;
+    font-size: 1.6em;
+    font-weight: 300;
+    padding: 5px 0;
+    width: 100%;
+    border-radius: 3px;
+    color: pink;
+    border-bottom: 4px solid darkgray;
+    font-family: "Fredoka One";
+}
+#btnEditVehicleService{
+    margin-top: 20px;
+    background-color: cadetblue;
+    border: none;
+    font-size: 1.6em;
+    font-weight: 300;
+    padding: 5px 0;
+    width: 100%;
+    border-radius: 3px;
+    color: pink;
+    border-bottom: 4px solid darkgray;
+    font-family: "Fredoka One";
+}
+
+#statsDiv{
+    width: 100%;
+    background-color: #B53333;
+    border: double;
+    text-align: center;
+    font-size: 2em;
+
+}
+
+
